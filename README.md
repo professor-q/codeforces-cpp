@@ -1,2 +1,1 @@
-# codeforces-cpp
-codeforces handle : professor-q
+***codeforces contest wise solution*** 
