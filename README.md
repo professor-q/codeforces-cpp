@@ -1,3 +1,3 @@
-***codeforces contest wise solution***
+***Codeforces contest wise problems solution in cpp***
 
-***handle : professor-q***
+***Handle : professor-q***
